@@ -1,0 +1,413 @@
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#logo {
+  margin-top: -20px;
+  position: fixed;
+}
+
+.logopos {
+  position: absolute;
+}
+
+.topbar {
+  font-family: "Sedgwick Ave Display", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 45px;
+  color: #ffc700;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.abou {
+  border-bottom: 3px solid #ffc700;
+
+  position: absolute;
+  width: 100px;
+  height: 55px;
+  left: 487px;
+  top: 36px;
+}
+
+.proj {
+  border-bottom: 3px solid #ffc700;
+
+  position: absolute;
+  width: 112px;
+  height: 55px;
+  left: 772px;
+  top: 36px;
+}
+
+.ctme {
+  border-bottom: 3px solid #ffc700;
+
+  position: absolute;
+  width: 163px;
+  height: 55px;
+  left: 1081px;
+  top: 36px;
+}
+
+#content {
+  margin-top: 10%;
+  position: absolute;
+  left: 24%;
+}
+
+#devic {
+  position: absolute;
+  width: 353px;
+  height: 156px;
+  left: 687px;
+  top: 654px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 144px;
+  line-height: 180px;
+
+  color: #ffc700;
+}
+
+.prnam {
+  position: absolute;
+  width: 456px;
+  height: 174px;
+  left: 88px;
+  top: 1136px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 144px;
+  line-height: 180px;
+  text-decoration-line: underline;
+
+  color: #FFC700;
+}
+
+.tictaccon {
+  position: absolute;
+  width: 475px;
+  height: 122px;
+  left: 190px;
+  top: 1441px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 90px;
+  text-decoration-line: underline;
+
+  color: #FFC700;
+}
+
+.deftic {
+  position: absolute;
+  width: 612px;
+  height: 767px;
+  left: 93px;
+  top: 1563px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 47px;
+
+  color: #FFC700;
+
+}
+
+#rec {
+  position: absolute;
+  width: 865px;
+  height: 883px;
+  left: 786px;
+  top: 1402px;
+
+  border: 9px solid #FFC700;
+  box-sizing: border-box;
+}
+
+.line1 {
+  position: absolute;
+  width: 717px;
+  height: 0px;
+  left: 860px;
+  top: 1969px;
+
+  border-top: 14px solid #FFC700;
+  border-radius: 10px;
+
+}
+
+.line2 {
+  position: absolute;
+  width: 717px;
+  height: 0px;
+  left: 860px;
+  top: 1729px;
+
+  border-top: 14px solid #FFC700;
+  border-radius: 10px;
+}
+
+.line3 {
+  position: absolute;
+  width: 662.02px;
+  height: 0px;
+  left: 1029px;
+  top: 1835.02px;
+
+  border-top: 14px solid #FFC700;
+  border-radius: 10px;
+  transform: rotate(-90deg);
+}
+
+.line4 {
+  position: absolute;
+  width: 662.02px;
+  height: 0px;
+  left: 726px;
+  top: 1835.02px;
+
+  border-top: 14px solid #FFC700;
+  border-radius: 10px;
+  transform: rotate(-90deg);
+}
+
+.imgxo {
+  position: absolute;
+  width: 709px;
+  height: 803px;
+  left: 890px;
+  top: 1417px;
+}
+
+.abna {
+  position: absolute;
+  width: 395px;
+  height: 174px;
+  left: 88px;
+  top: 2517px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 144px;
+  line-height: 180px;
+  text-decoration-line: underline;
+
+  color: #FFC700;
+}
+
+.nam {
+  position: absolute;
+  width: 188px;
+  height: 106px;
+  left: 88px;
+  top: 2730px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 80px;
+  text-decoration-line: underline;
+
+  color: #FFC700;
+}
+
+.lore {
+  position: absolute;
+  width: 1557px;
+  height: 683px;
+  left: 88px;
+  top: 2875px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 53px;
+
+  color: #FFC700;
+}
+
+.cnam {
+  position: absolute;
+  width: 691px;
+  height: 174px;
+  left: 88px;
+  top: 3815px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 144px;
+  line-height: 180px;
+  text-decoration-line: underline;
+
+  color: #FFC700;
+}
+
+.nm {
+  position: absolute;
+  width: 241px;
+  height: 140px;
+  left: 88px;
+  top: 4065px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 90px;
+
+  color: #FFC700;
+
+}
+
+.inp {
+  position: absolute;
+  outline: none;
+  width: 650px;
+  height: 60px;
+  left: 359px;
+  top: 4065.01px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 5px solid #FFC700;
+  transform: rotate(-0.35deg);
+
+  font-size: 45px;
+  color: #ffc700;
+  font-family: Sedgwick Ave Display;
+
+}
+
+.em {
+  position: absolute;
+  width: 241px;
+  height: 140px;
+  left: 88px;
+  top: 4229px;
+
+  font-family: Sedgwick Ave Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 90px;
+
+  color: #FFC700;
+
+}
+
+.ema {
+  position: absolute;
+  outline: none;
+  width: 650px;
+  height: 60px;
+  left: 359px;
+  top: 4230.01px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 5px solid #FFC700;
+  transform: rotate(-0.35deg);
+
+  font-size: 45px;
+  color: #ffc700;
+  font-family: Sedgwick Ave Display;
+}
+
+.txtmsg {
+  position: absolute;
+  outline: none;
+  background-color: transparent;
+  width: 1119px;
+  height: 543px;
+  left: 101px;
+  top: 4386px;
+
+  padding-left: 20px;
+  padding-top: 10px;
+
+  border: 10px solid #FFC700;
+  box-sizing: border-box;
+
+  font-size: 25px;
+  color: #ffc700;
+  font-family: Sedgwick Ave Display;
+}
+
+.rectl {
+  position: absolute;
+  width: 602px;
+  height: 330px;
+  left: 1101px;
+  top: 4001px;
+
+  border: 8px solid #FFC700;
+  box-sizing: border-box;
+}
+
+.gith {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 1523px;
+  top: 4041px;
+}
+
+.spot {
+  position: absolute;
+  width: 258px;
+  height: 77px;
+  left: 1265px;
+  top: 4205px;
+
+}
+
+.dis {
+  position: absolute;
+  width: 292px;
+  height: 80px;
+  left: 1160px;
+  top: 4053px;
+}
+
+.send {
+  background-color: transparent;
+  outline: none;
+
+  position: absolute;
+  width: 332px;
+  height: 127px;
+  left: 1301px;
+  top: 4645px;
+
+  border: 10px solid #FFC700;
+  box-sizing: border-box;
+  border-radius: 33px;
+
+  font-family: Sedgwick Ave Display;
+  color: #ffc700;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 56px;
+  align-content: center;
+  line-height: 90px;
+}
